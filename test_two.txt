@@ -1,0 +1,1 @@
+There are some named properties in arrays, such as length and a number of methods. 
