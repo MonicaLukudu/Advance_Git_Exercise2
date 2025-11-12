@@ -1,3 +1,3 @@
 To find out whether values should be compared directly (using the === operator for that) or have their properties compared, you can use the typeof operator. If it produces "object" for both values, you should do a deep comparison. But you have to take one silly exception into account: because of a historical accident, typeof null also produces "object".
 There are some named properties in arrays, such as length and a number of methods. 
-Objects and arrays provide ways to group several values into a single value. This allows us to put a bunch of related things in a bag and run around with the bag instead of wrapping our arms around all of the individual things and trying to hold on to them separately.
+Objects and arrays provide ways to group several values into a single value. This allows us to put a bunch of related things in a ith the bag instead of wrapping our arms around all of the individual things and trying to hold on to them separately.
