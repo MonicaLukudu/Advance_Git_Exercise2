@@ -1,1 +1,2 @@
 There are some named properties in arrays, such as length and a number of methods. 
+Objects and arrays provide ways to group several values into a single value. This allows us to put a bunch of related things in a bag and run around with the bag instead of wrapping our arms around all of the individual things and trying to hold on to them separately.
