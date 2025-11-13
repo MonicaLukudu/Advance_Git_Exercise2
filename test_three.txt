@@ -1,1 +1,1 @@
-Methods are functions that live in properties and (usually) act on the value of which they are a property.
+const name = 'monica'
